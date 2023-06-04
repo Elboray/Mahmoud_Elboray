@@ -8,8 +8,8 @@ I'm an Android developer with a passion for programming and continuous learning.
 - 🌱 I’m currently learning **Native Android development** with [Kotlin](https://kotlinlang.org), using MVVM with Google's recommended [Architecture Components](https://developer.android.com/topic/architecture)
 
 <h3 align="left">Connect with me:</h3>
-- 📧 Feel free to reach me via email at **ma5126@fayoum.edu.eg**
 
+- 📧 Feel free to reach me via email at ma5126@fayoum.edu.eg
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/mahmoud-elboray-4269771b9)
 
 
