@@ -1,6 +1,6 @@
 <p align="center">
   <img alt="Hassan's Welcome Message"
-	 src="https://readme-typing-svg.herokuapp.com?size=30&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi+there!+I'm+Mahmoud Elboray">
+	 src="https://readme-typing-svg.herokuapp.com?size=30&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi+there!+I'm+Mahmoud">
 </p>
 
 I'm an Android developer with a passion for programming and continuous learning. Currently, I'm focused on Native Android development using Kotlin and following the MVVM architecture pattern with Google's recommended Architecture Components.
@@ -9,7 +9,7 @@ I'm an Android developer with a passion for programming and continuous learning.
 
 <h3 align="left">Connect with me:</h3>
 - 📧 Feel free to reach me via email at ma5126@fayoum.edu.eg
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/mahmoud-elboray-4269771b9/)
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/mahmoud-elboray-4269771b9)
 
 
 
